@@ -5,7 +5,7 @@
       {
         "type": "cosmos-sdk/MsgSend",
         "value": {
-          "from_address": "cosmos129mjpx9c2hchkjf2lmrmt34v0qk0qf3g3f7g2y",
+          "from_address": "cosmos1qlceyw4khx6ktmd0m6w6zfznsxx0jj73rp3dmj",
           "to_address": "cosmos1nx982k7n0tcuy06gzyhse3sj9c2yshp9aawanp",
           "amount": [
             {
@@ -29,9 +29,9 @@
       {
         "pub_key": {
           "type": "tendermint/PubKeySecp256k1",
-          "value": "AqQEKRgLcmX+5xv/7XlyGqShX+9qyESn/B5S5ngVl+9O"
+          "value": "AuiBrJQTT1aK5aq4paXRkC9O7QqTjCom+nxEcvb+mmNK"
         },
-        "signature": "d22iR4N78oe7Vy2/+Zr/7o2OMjqRUgTIQxXyzsqHpWdI5Gfpi9R5o6IzbIX3BytmMbFoaeyqkpcI/gPtOu8HEQ=="
+        "signature": "pLdpNq6VIKd2g5eSrRVpRSN+oh73fIDXrS2ojBZHaatBNcc9BeJC2dZZM6/HqH7M3FF4IBz95JqOWO5etU+/Dw=="
       }
     ],
     "memo": "Sent via Cosmos Voyager 🚀"
